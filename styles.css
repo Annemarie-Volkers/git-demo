@@ -5,3 +5,10 @@ body {
 h1{
     font-size: 20px;
 }
+
+div{
+    color: blue;
+}
+li{
+    color: aqua;
+}
